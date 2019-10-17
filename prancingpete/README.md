@@ -1,0 +1,2 @@
+# prancingpete
+My partner Nathan Stoeckle and I worked on a 2D Platformer in JavaScript called Prancing Pete. The goal of the game itself was to create a 2D Platformer with 3 levels, one being easy, medium, and hard. The game was structured to be 10 x 10 to be a game with not too much memory being required as well as making it have more of a retro vibe to it. Our design document also discusses the goals and about our project as well
